@@ -25,6 +25,15 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+.navigation-links {
+  display: inline;
+  li {
+    display: inline-block;
+    margin-right: 18px;
+    &.active {
+      font-weight: 700;
+    }
+  }
+}
 </style>

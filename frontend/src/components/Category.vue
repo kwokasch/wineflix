@@ -29,6 +29,20 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:wght@400;700&display=swap");
+.category {
+  margin-bottom: 16px;
+  h2 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  ul {
+    display: flex;
+    flex-flow: row nowrap;
+    overflow-x: auto;
+  }
+}
 </style>

@@ -20,6 +20,9 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+.secondary-action {
+  background-color: hsla(0, 0%, 100%, 0.30);
+  color: hsl(0, 0%, 90%);
+}
 </style>

@@ -59,6 +59,13 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+.hero {
+  position: relative;
+  color: #fff;
+  overflow-y: hidden;
+  nav, .hero-content {
+    padding: 18px 48px;
+  }
+}
 </style>

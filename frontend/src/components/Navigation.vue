@@ -22,6 +22,30 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+nav {
+  background-color: hsla(0, 0%, 0%, 0.2);
+  font-size: 16px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  .primary-navigation {
+    display: flex;
+    align-items: center;
+    .navigation-links {
+      display: inline;
+      li {
+        display: inline-block;
+        margin-right: 18px;
+        &.active {
+          font-weight: 700;
+        }
+      }
+    }
+  }
+  .secondary-navigation {
+    display: flex;
+    align-items: center;
+  }
+}
 </style>

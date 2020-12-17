@@ -5,9 +5,7 @@
     </h2>
     <h3>{{ subtitle }}</h3>
     <p>{{ description }}</p>
-    <ul class="controls">
-      <Controls />
-    </ul>
+    <Controls />
   </div>
 </template>
 
@@ -28,6 +26,22 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss">
+.hero-content {
+  margin-top: 200px;
+  margin-bottom: 200px;
+  h3 {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px hsl(0, 0, 20%);
+  }
+  p {
+    font-size: 24px;
+    margin-bottom: 24px;
+    max-width: 600px;
+    line-height: 1.4;
+  }
+}
 </style>

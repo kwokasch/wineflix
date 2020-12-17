@@ -124,4 +124,20 @@ export default {
 </script>
 
 <style lang="scss">
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans:wght@400;700&display=swap");
+img {
+  max-width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+body {
+  font-family: "Fira Sans", sans-serif;
+  background-color: hsl(0, 0%, 10%);
+}
+main {
+  padding: 18px 48px;
+  margin-top: -72px;
+}
 </style>

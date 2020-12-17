@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a471527-0438-4b62-89b0-df25da35c76d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Category.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Controls.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Hero.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/HeroContent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/HeroImage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navigation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/NavigationLink.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/NavigationLinks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/PrimaryAction.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/PrimaryNavigation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/SecondaryAction.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/SecondaryNavigation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/UserAvatar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Wine.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Category.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Category.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Controls.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Controls.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Hero.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Hero.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/HeroContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/HeroContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/HeroImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/HeroImage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navigation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Navigation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/NavigationLinks.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/NavigationLinks.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/PrimaryAction.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/PrimaryAction.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/SecondaryAction.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/SecondaryAction.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/UserAvatar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/UserAvatar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Wine.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Wine.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608221579714</updated>
-      <workItem from="1608221580793" duration="729000" />
+      <workItem from="1608221580793" duration="4178000" />
     </task>
     <servers />
   </component>
@@ -65,10 +62,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1225" y="-774" width="586" height="490" key="find.popup" timestamp="1608222369043">
+    <state x="1225" y="-774" width="586" height="490" key="find.popup" timestamp="1608224164939">
       <screen x="737" y="-1057" width="2048" height="1057" />
     </state>
-    <state x="1225" y="-774" width="586" height="490" key="find.popup/-863.-877.1600.877/737.-1057.2048.1057/0.23.1440.877@737.-1057.2048.1057" timestamp="1608222369043" />
+    <state x="1225" y="-774" width="586" height="490" key="find.popup/-863.-877.1600.877/737.-1057.2048.1057/0.23.1440.877@737.-1057.2048.1057" timestamp="1608224164939" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
